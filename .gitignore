@@ -649,3 +649,4 @@ cython_debug/
 # Tutorial working files
 activities/future-weeks/
 activities/md_to_pdf/
+.DS_Store
